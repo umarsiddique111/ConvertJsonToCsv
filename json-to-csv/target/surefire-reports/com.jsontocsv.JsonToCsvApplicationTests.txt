@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.jsontocsv.JsonToCsvApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.01 s <<< FAILURE! - in com.jsontocsv.JsonToCsvApplicationTests
+initializationError(com.jsontocsv.JsonToCsvApplicationTests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.jsontocsv.JsonToCsvApplicationTests.primeNumbers(JsonToCsvApplicationTests.java:60)
+
